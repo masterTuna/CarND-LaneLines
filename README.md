@@ -1,2 +1,2 @@
-# u_selfdriving_proj
-self driving related projects
+# CarND-LaneLines
+self-driving car: find the lanes
